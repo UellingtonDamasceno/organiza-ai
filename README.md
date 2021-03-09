@@ -1,6 +1,8 @@
 # organiza-ai
 
 # Sumário
+- [Problema](#problema)
+- [Requisitos básicos](#requisitos-básicos)
 
 # Problema
 "No MI de Algoritmos, ao londo do semestre, são apresentados
@@ -17,7 +19,22 @@ armazenado em um arquivo de texto. Esse arquivo de texto possui as seguintes
 informações a respeito dos problemas: `Semestre`, `Número`, `Ano`, `Título` e 
 `Descritivo`. Agora os professores desejam um sistema capaz de realizar leitura
 desse arquivo de texto e que forneça capacidades mínimas de manipulação das
-informações."
+informações. 
+
+Os professores do MI de Algoritmos, sabendo da experiência e do comprometimento
+dos alunos na solução de problemas, decidiram solicitar a participação destes
+na construção de um sistema capaz de atender a essa necessidade dos professores."
+
+## Requisitos básicos
+O Sistema deve atender os seguintes requisitos:
+
+| Requisito nº | Descrição | Status |
+| :----------: | --------- | :----: |
+| 01 | Os dados deverão ser lidos de apenas um arquivo de texto. Os dados poderão está desorganizados. | ✅ | 
+| 02 | O usuário pode consultar todos os problemas de um determinado semestre, ou um problema de um determinado semestre. | ✅ |
+| 03 | O usuário pode cadastrar novos problemas. | ✅ |
+| 04 | Exportar um arquivo de saída com todos os problemas em ordem decrescente. | ✅ |
+| 05 | Os problemas repetidos deverão ser removidos durante a ordenação | ✅ |
 
 ----------
 
