@@ -3,6 +3,8 @@
 # Sumário
 - [Problema](#problema)
 - [Requisitos básicos](#requisitos-básicos)
+- [Objetivos de aprendizagem](#objetivos-de-aprendizagem)
+- [Curiosidades](#curiosidades)
 
 # Problema
 "No MI de Algoritmos, ao londo do semestre, são apresentados
@@ -35,6 +37,21 @@ O Sistema deve atender os seguintes requisitos:
 | 03 | O usuário pode cadastrar novos problemas. | ✅ |
 | 04 | Exportar um arquivo de saída com todos os problemas em ordem decrescente. | ✅ |
 | 05 | Os problemas repetidos deverão ser removidos durante a ordenação | ✅ |
+
+
+## Objetivos de aprendizagem
+- Ponteiros.
+- Alocação dinâmica.
+- Structs e typedef.
+- Lista encadeada.
+- Inserção ordenada de um nó.
+- Ordenação.
+
+## Curiosidades
+1. Tentei fazer algo semelhante a um índice invertido com árvore binária para resolver esse problema. Mas isso era matar formiga com uma bazuca e meu sonho de fazer coisas mirabulantes com árvore binária só se realizou no [3º PBL do MI de algoritmos II](https://github.com/UellingtonDamasceno/BusKeyFX).
+2. Ainda pensando em matar formiga com bazuca. Pensei em implementar o _quicksort_ para ordenar os problemas, mas acabei usando uma inserção ordenada :). Esse por sua vez foi implementado no [2º PBL do MI de algoritmos II](https://github.com/UellingtonDamasceno/BlackJack).
+3. Esse foi o último problema do MI de algoritmos I. 
+4. Tirei 9.4 na média final do MI, mas perdi na disciplina teórica.
 
 ----------
 
