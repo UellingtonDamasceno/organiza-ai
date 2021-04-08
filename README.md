@@ -1,6 +1,5 @@
 # organiza-ai
 
-# Problema
 "No MI de Algoritmos, ao londo do semestre, são apresentados
 aos estudantes desta disciplina no mínimo três problemas. O arquivamento adequado
 das informações referentes aos problemas aplicados se faz importante, dentre
