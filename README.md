@@ -1,11 +1,5 @@
 # organiza-ai
 
-# Sumário
-- [Problema](#problema)
-- [Requisitos básicos](#requisitos-básicos)
-- [Objetivos de aprendizagem](#objetivos-de-aprendizagem)
-- [Curiosidades](#curiosidades)
-
 # Problema
 "No MI de Algoritmos, ao londo do semestre, são apresentados
 aos estudantes desta disciplina no mínimo três problemas. O arquivamento adequado
